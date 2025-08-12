@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm trying hard bring machines to life
 
 <!--
 **JLBello/JLBello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
